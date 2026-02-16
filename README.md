@@ -18,4 +18,4 @@
 ```bash
 git clone [https://github.com/Sm7kie/HashAuditor.git](https://github.com/Sm7kie/HashAuditor.git)
 cd HashAuditor
-pip install colorama
+pip install -r requirements.txt
