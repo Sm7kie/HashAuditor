@@ -1,7 +1,3 @@
-# HashAuditor
-A robust Python-based hash utility for generating and auditing passwords. Features intelligent algorithm auto-detection, salt support, and multi-threaded dictionary attacks.
-# HashAuditor
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
